@@ -94,14 +94,13 @@ Set-Cookie</code></pre>
 
 
 <details class="wp-block-details"><summary>出力結果</summary>
-<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>HTTP/2 200 OK
-Server
-Date
-Content-Type
-Connection
-Vary
-Link
-Set-Cookie</code></pre>
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>HTTP/2 200
+server
+date
+content-Type
+vary
+link
+set-Cookie</code></pre>
 </details>
 </div>
 
@@ -117,14 +116,13 @@ Set-Cookie</code></pre>
 
 
 <details class="wp-block-details"><summary>出力結果</summary>
-<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>HTTP/2 200 OK
-Server
-Date
-Content-Type
-Connection
-Vary
-Link
-Set-Cookie</code></pre>
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>HTTP/2 200
+server
+date
+content-Type
+vary
+link
+set-Cookie</code></pre>
 </details>
 </div>
 </div>
@@ -358,14 +356,13 @@ Set-Cookie</code></pre>
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>HTTP/2 200 OK
-Server
-Date
-Content-Type
-Connection
-Vary
-Link
-Set-Cookie</code></pre>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>HTTP/2 200
+server
+date
+content-Type
+vary
+link
+set-Cookie</code></pre>
 </details>
 </div>
 
@@ -381,14 +378,13 @@ Set-Cookie</code></pre>
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>HTTP/2 200 OK
-Server
-Date
-Content-Type
-Connection
-Vary
-Link
-Set-Cookie</code></pre>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>HTTP/2 200
+server
+date
+content-Type
+vary
+link
+set-Cookie</code></pre>
 </details>
 </div>
 </div>
