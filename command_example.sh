@@ -7,7 +7,7 @@ echo "$file_absolute_path"
 
 curl --head https://ss523971.stars.ne.jp/todo/hello/
 
-curl --head --http1.1 https://ss523971.stars.ne.jp/todo/hello
+curl --head --http1.1 https://ss523971.stars.ne.jp/todo/hello/
 
 echo "HTTP/1.1 200 OK
 Server: nginx
