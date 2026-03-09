@@ -400,4 +400,3 @@ set-Cookie</code></pre>
 <div class="wp-block-group">
 <p>レスポンスのヘッダーとボディの内ヘッダーのみを取得して、サーバーの状態を確認したいときに使用されます<br></p>
 </div>
-
